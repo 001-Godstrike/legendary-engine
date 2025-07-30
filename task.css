@@ -19,9 +19,25 @@ p{
 }
 
 button{
-    width: 80px;
+    width: 45%;
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 25px;
     border: none;
+    margin-left: 8px;
+}
+
+.container2{
+    background: white; 
+    width: 95%;
+    height: 320px;
+    border-radius: 15px;
+    margin: 0 auto;
+    
+}
+
+            
+a{
+    text-decoration: none;
+}
 }
