@@ -40,4 +40,38 @@ button{
 a{
     text-decoration: none;
 }
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: white;
+    margin: 0;
+    color: white;
+    margin-top:-22px;
+    padding: -90px;
+    padding-bottom: 10px;
+ }
+
+fixed li{
+    float: left;
+                                                display: inline;
+                                                    padding:0 30px 0 30px;
+                                                        margin-left: -10px;
+                                                            
+                                                            }
+
+                                                            .f{
+                                                                width: 10px;
+                                                                    margin-left: -30px;
+                                                                    }
+
+                                                                    nav{
+                                                                        text-align: center;
+                                                                        }
+
+                                                                        .current{
+                                                                            background: gold;
+                                                                                opacity: 0.8;
+                                                                                }
 }
