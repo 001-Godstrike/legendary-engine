@@ -34,12 +34,4 @@ function createAccount(event) {
     if (text === "Success") {
       alert("Account created successfully!");
       window.location.href = 'index.html';
-    } else {
-alert(text); 
-    }
-  })
-  .catch(error => {
-    console.error("Error!", error.message);
-    alert("Error! Check your internet or try again.");
-  });
-}
+    } 
